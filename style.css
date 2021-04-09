@@ -7,7 +7,7 @@ body {
 }
 
 .heder {
-    width: 1920px;
+    width: 1922px;
     display: flex;
     height: 94px;
     background: #FFFFFF;
@@ -1275,4 +1275,87 @@ color: #4F4F4F;
     top: 4748px;
     
     background: #F2F2F2;
+}
+
+.sectionSixTitle {
+    position: absolute;
+    width: 790px;
+    height: 56px;
+    left: 566px;
+    top: 100px;
+    
+    
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    
+    color: #333333; 
+}
+
+.map {
+    position: absolute;
+    width: 1200px;
+    height: 498px;
+    left: 361px;
+    top: 216px;
+}
+
+.toolTip {
+    position: absolute;
+    left: 4.16%;
+    right: 73.14%;
+    top: 40.49%;
+    bottom: 43.03%;
+
+
+    background: #FEFEFE;
+
+    box-shadow: 2px 4px 15px rgba(6, 12, 70, 0.15);
+    border-radius: 8px;
+    }
+
+.toolTip img {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 44px;
+    top: 40px;
+
+    border-radius: 50px;
+}
+
+.toolTip span {
+    position: absolute;
+    width: 166px;
+    height: 21px;
+    left: 129px;
+    top: 40px;
+
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #333333;
+}
+
+.toolTip p {
+    position: absolute;
+    width: 240px;
+    height: 16px;
+    left: 129px;
+    top: 68px;
+    margin-top: 10px;
+
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #4F4F4F;
 }
