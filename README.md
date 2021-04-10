@@ -1,2 +1,2 @@
-# kpogotskaia-JSFE2021Q1
+# https://kpogotskaia.github.io/rsscholeTasks/
 Private repository for @kpogotskaia
