@@ -4,6 +4,7 @@ body {
     width: 1920px;
     position: relative;
     background: #FBFBFB;
+    overflow-x: hidden;
 }
 
 .heder {
@@ -452,7 +453,7 @@ top: 94px;
     left: 564px;
     top: 296px;
 
-    background: url(assets/img/secondScreen.png);
+    background: url(assets/img/secondscreen.png);
     border-radius: 5px;
 }
 
