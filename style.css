@@ -1405,7 +1405,10 @@ top: 290px;
             top: 306px;
             }
 
-.sectionSixButton {
-    margin-top: 55px;
-}
 
+.sectionSixButton {
+    position: absolute;
+    top: 749px;
+    left: 838px;
+
+}
