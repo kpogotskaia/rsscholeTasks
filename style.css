@@ -1412,3 +1412,77 @@ top: 290px;
     left: 838px;
 
 }
+
+footer {
+    position: absolute;
+    width: 1920px;
+    height: 751px;
+    left: 0px;
+    top: 5652px;
+
+    background: #333333;
+}
+
+.footerLogo {
+    margin-top: 110px;
+}
+
+.footerLogo h1{
+    color: #FEFEFE;
+}
+
+.nav_item a {
+    color: #FEFEFE;
+}
+
+.navFooter {
+    margin-left: 900px;
+}
+
+.buttonFooter {
+    position: absolute;
+    width: 275px;
+    height: 55px;
+    left: 1491px;
+    top: 125px;
+
+    background: linear-gradient(106.89deg, #4BD8B5 -14.32%, #49D6DF 100.68%);
+    border-radius: 3px;
+    border: none;
+}
+
+.buttonFooter span {
+    position: absolute;
+
+    left: 30px;
+    top: 17px;
+
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+footer h3 {
+    position: absolute;
+    width: 97px;
+    height: 23px;
+    left: 151px;
+    top: 211px;
+
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FEFEFE;
+    }
+
+
