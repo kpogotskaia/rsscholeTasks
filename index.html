@@ -390,29 +390,30 @@
 
             <h3>Contact us</h3>
 
-            <form action="post">
-                <ul>
-                    <li>
-                <label for="name">Name</label>
-                <input type="text" name="name">
-                    </li>
+            <form action="form">
+                    <div class="userBox">
+                <label class="formLabel" for="name">Name</label>
+                <input class="formInput" type="text" name="name">
+                    </div>
 
-                    <li>
-                <label for="email">Email</label>
-                <input type="email" name="email">
-                    </li>
+                    <div class="userBox">
+                <label  class="formLabel" for="email">Email</label>
+                <input class="formInput" type="email" name="email">
+                    </div>
 
-                    <li>
+                    <div>
                 <label for="message">Please enter your message</label>  
                 <textarea name="message" id="submit" cols="280" rows="10"></textarea>
-                    </li>
-                </ul>
+                    </div>
+                
             </form>
 
             <div class="checkbox">
                 <input type="checkbox" name="check" id="check" value="checkb">
                 <label for="check">I agree to the processing of Personal Data</label>
             </div>
+
+            
 
         </footer>
     

@@ -1485,4 +1485,64 @@ footer h3 {
     color: #FEFEFE;
     }
 
+.form {
+    margin-left: 150px;
+    margin-top: 120px;
+}
 
+.formInput {
+        width: 383px;
+         padding: 0 0 10px 0;
+         border: none;
+         border-bottom: 1px solid #bdbdbd; 
+         background-color: transparent; 
+         outline: none;
+}
+    
+.formLabel {
+    top: 0px; 
+    z-index: -1;
+    color: #e0e0e0; 
+}  
+
+
+input[type="checkbox"] {
+    display: none;
+  }
+
+  label {
+    color: #000;
+    cursor: default;
+    font-weight: normal;
+    line-height: 30px;
+    padding: 10px 0;
+    vertical-align: middle;
+  }  
+
+.checkbox label {
+    color: #000;
+    cursor: default;
+    font-weight: normal;
+    line-height: 30px;
+    padding: 10px 0;
+    vertical-align: middle;
+  }
+
+  .checkbox label:before {
+    content: " ";
+    color: #000;
+    display: inline-block;
+    font: 20px/30px Arial;
+    margin-right: 15px;
+    position: relative;
+    text-align: center;
+    text-indent: 0px;
+    width: 13px;
+    height: 13px;
+    background: #333333;
+    border: 1px solid #BDBDBD;
+    border-image: initial;
+    vertical-align: middle;
+  }
+            
+        
